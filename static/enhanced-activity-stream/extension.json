@@ -12,12 +12,12 @@
       "path": "homepage",
       "payload": {
         "include-repo": {
-          "name": "cc-customisations"
+          "name": "silverside-customizer"
         },
         "include-files": [
-          "core.js",
-          "scroller.js",
-          "notifier.js"
+          "enhanced-activity-stream/core.js",
+          "enhanced-activity-stream/scroller.js",
+          "enhanced-activity-stream/notifier.js"
         ]
       }
     }

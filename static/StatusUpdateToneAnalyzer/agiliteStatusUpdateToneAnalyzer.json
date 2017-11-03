@@ -10,7 +10,10 @@
         "include-files": [
           "StatusUpdateToneAnalyzer/agiliteCore.js",
           "StatusUpdateToneAnalyzer/agiliteStatusUpdateToneAnalyzer.js"
-        ]
+        ],
+		"include-repo": {
+          "name": "silverside-customizer"
+        }
       },
       "name": "Status Update Tone Analyzer Extension",
       "type": "com.ibm.customizer.ui"
